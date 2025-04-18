@@ -4,10 +4,12 @@
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
+    "keywords": ["markdown", "footnotes", "inline", "commonmark", "league/commonmark"],
+    "homepage": "https://github.com/philippoehrlein/inline-footnotes",
     "authors": [
         {
-            "name": "Philipp Oehrlein",
-            "email": "philipp@oehrlein.com"
+          "name": "Philipp Oehrlein",
+          "email": "github@philippoehrlein.de"
         }
     ],
     "require": {
