@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
-    "keywords": ["markdown", "footnotes", "inline", "commonmark", "league/commonmark"],
+    "keywords": ["markdown", "footnotes", "inline", "commonmark", "commonmark-php", "commonmark-extension"],
     "homepage": "https://github.com/philippoehrlein/inline-footnotes",
     "authors": [
         {
