@@ -1,7 +1,7 @@
 {
     "name": "philippoehrlein/inline-footnotes",
     "description": "A CommonMark extension to support inline footnotes in the format [^Text of the footnote]",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "library",
     "license": "MIT",
     "keywords": ["markdown", "footnotes", "inline", "commonmark", "commonmark-php", "commonmark-extension"],

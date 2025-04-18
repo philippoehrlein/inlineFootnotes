@@ -2,7 +2,7 @@
 
 # Inline Footnotes for CommonMark
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://packagist.org/packages/philippoehrlein/inline-footnotes)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://packagist.org/packages/philippoehrlein/inline-footnotes)
 
 This PHP library extends the [League/CommonMark](https://github.com/thephpleague/commonmark) parser to support inline footnotes in the format `[^Footnote text]`. Unlike the reference-style footnote format commonly used in various [Markdown](https://daringfireball.net/projects/markdown/) implementations, this format allows you to enter the footnote text directly at the point where it's needed.
 
