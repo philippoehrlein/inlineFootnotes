@@ -1,0 +1,22 @@
+{
+    "name": "philippoehrlein/inline-footnotes",
+    "description": "A CommonMark extension to support inline footnotes in the format [^Text of the footnote]",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philipp Oehrlein",
+            "email": "philipp@oehrlein.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "league/commonmark": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhilippOehrlein\\InlineFootnotes\\": "src/"
+        }
+    }
+} 
